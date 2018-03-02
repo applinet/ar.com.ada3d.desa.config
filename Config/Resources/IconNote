@@ -23,10 +23,11 @@ d30fAAAAAPHXd33Xd3d913d9HwAAAADx13d913d3fdd3fR8AAAAA8R3d0dd3d30d3dEfAAAAAA8R
 EREdd3fRERER8AAAAAAA////Ed3dEf///wAAAAAAAAAAAPERER8AAAAAAAAAAAAAAAAP///wAAAA
 AAAAUEECICABAAD/////+A4DgA==
 </rawitemdata></item>
-<item name='$Flags'><text>JF</text></item>
 <item name='$LaunchXPageRunOnServer'><text>0</text></item>
 <item name='$FlagsNoRefresh'><text/></item>
 <item name='$DefaultFrameset'><text>Principal</text></item>
+<item name='$TITLE'><text>ADA3D Configuracion</text></item>
 <item name='$Daos'><text>0</text></item>
-<item name='$TITLE'><text>ADA3D Configuracion</text></item></note>
+<item name='$LargeSummary'><text>0</text></item>
+<item name='$Flags'><text>JF7</text></item></note>
 
